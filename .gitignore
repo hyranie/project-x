@@ -1,0 +1,4 @@
+enviroment.html
+*.log
+vendor
+/assets/uploads
